@@ -25,7 +25,6 @@ def ibot():
     icore.type("Who is your best friend?", "Wow! they sound cool! I like the name", " :)")
     icore.type("When is your birthday?", "Lit! Always wanted my birthday to be in", "!")
     icore.yn("Do you like memes?", "You are a lit person", "You sould try them!")
-    icore.yn("Do you like memes?", "You are a lit person", "You sould try them!")
     icore.type("What school do you do to?", "Woah! ", ", What a lit school")
     icore.type("are you a pc or xbox gamer?", "Meh.. I guess the are all ok.. but", " you can do better")
     icore.yn("Are you in our class", "Woah you are cooooool", "Next time ;)")
